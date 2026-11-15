@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/docs/">
+    <File Path="design.md" />
+  </Folder>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="Typeahead.Core.Tests/Typeahead.Core.Tests.csproj" Id="f8408109-348c-42e4-8f2d-b6b706ef354e" />
+  </Folder>
+  <Project Path="Typeahead.Core/Typeahead.Core.csproj" />
+</Solution>
